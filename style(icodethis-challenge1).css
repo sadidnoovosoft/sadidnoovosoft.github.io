@@ -96,8 +96,6 @@ select {
 
 .container {
     width: min(40rem, 90%);
-    margin-inline: auto;
-    margin-block: 6rem;
     background-color: rgb(67, 67, 231);
     color: white;
     padding: 4rem 6rem;
@@ -105,6 +103,7 @@ select {
     border-radius: 2rem;
     text-align: center;
     position: relative;
+    top: 8rem;
 }
 
 .heading {

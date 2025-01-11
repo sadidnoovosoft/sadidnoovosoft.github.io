@@ -129,7 +129,6 @@ select {
     display: grid;
     gap: 1.5rem;
     width: min(95%, 70rem);
-    margin-inline: auto;
     padding-block: 2rem;
 }
 
