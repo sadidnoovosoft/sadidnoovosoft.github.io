@@ -1,0 +1,28 @@
+.navbar {
+    margin: -1rem;
+    background-color: #171717;
+    color: #c5c5c5;
+    padding-bottom: 0.5rem;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 1rem;
+}
+
+ul, li, a {
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+li:hover {
+    color: white;
+}
+
+a:active {
+    color: blue;
+}
